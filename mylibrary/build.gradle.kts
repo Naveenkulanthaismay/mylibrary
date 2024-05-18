@@ -45,8 +45,8 @@ afterEvaluate {
                 from(components["release"])
 
                 groupId = "com.example.mylibrary"
-                artifactId = "ImageLibrary"
-                version = "1.0.5"
+                artifactId = "mylibrary"
+                version = "1.0.0"
             }
         }
     }
